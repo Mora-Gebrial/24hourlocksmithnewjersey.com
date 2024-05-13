@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /404.html
+Disallow: /admin/
+
+Sitemap: https://24hourlocksmithnewjersey.com/sitemap.xml
+Sitemap: https://24hourlocksmithnewjersey.com/blog_sitemap.xml
